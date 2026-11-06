@@ -1,4 +1,4 @@
-# networkwalks-B084-week1-Cybersecurity-lab-setup
+# Networkwalks-B084-week1-Cybersecurity-lab-setup
 First Cybersecurity Lab Setup
 Project: Virtual Cybersecurity & Penetration Testing Lab Setup
 
